@@ -4,8 +4,8 @@
 "No" = "Non";
 "Ok" = "Ok";
 "Error" = "Erreur";
-"Retry" = "Réessayer";
-"Edit" = "Éditer";
+"Retry" = "RÃ©essayer";
+"Edit" = "Ã‰diter";
 "Login" = "Identifiant";
 "Close" = "Fermer";
 "Done" = "Fini";
@@ -19,99 +19,99 @@
 
 "Home" = "Accueil";
 "Info" = "Info";
-"Welcome to the Zebra Beta!" = "Bienvenue sur la Bêta de Zebra!";
+"Welcome to the Zebra Beta!" = "Bienvenue sur la BÃªta de Zebra!";
 "Changelog" = "Changelog";
-"Community Repos" = "Sources de la communauté";
-"Transfer Sources from %@" = "Importer les sources de %@";
+"Community Repos" = "Sources de la communautÃ©";
+"Transfer Sources from %@" = "Importer les Sources de %@";
 "Move all sources from %@ to Zebra" = "Importer toutes les sources de %@ vers Zebra";
 "Utility repo for %@" = "Source utilitaire pour %@";
-"Transfer Sources" = "Transférer les Sources";
+"Transfer Sources" = "TransfÃ©rer les Sources";
 "Utilities" = "Utilitaires";
 "Please Wait..." = "Patientez...";
-"Verifying Source(s)" = "Vérification de la(des) Source(s)";
+"Verifying Source(s)" = "VÃ©rification de la(des) Source(s)";
 "Stores" = "Magasins";
 "Purchases" = "Achats";
 "Wish List" = "Liste de souhait";
 "Unlist" = "Enlever de la liste";
-"Community" = "Communauté";
+"Community" = "CommunautÃ©";
 "Join our Discord" = "Joindre notre Discord";
 "Follow me on Twitter" = "Me suivre sur Twitter";
-"Credits" = "Crédits";
+"Credits" = "CrÃ©dits";
 
 // Settings
 
-"Settings" = "Paramètres";
+"Settings" = "ParamÃ¨tres";
 "Version" = "Version";
 "Information" = "Informations";
 "Graphics" = "Graphiques";
 "Featured" = "En Vedette";
-"News" = "Nouveautés";
+"News" = "NouveautÃ©s";
 "Search" = "Rechercher";
 "Miscellaneous" = "Divers";
-"Advanced" = "Avancé";
+"Advanced" = "AvancÃ©";
 
 "Report a Bug" = "Reporter un Bug";
 
 "Tint Color" = "Teinte";
-"Default" = "Défaut";
+"Default" = "DÃ©faut";
 "Blue" = "Bleu";
 "Orange" = "Orange";
 "White" = "Blanc";
 "Black" = "Noir";
 
 "Dark Mode" = "Mode Sombre";
-"Default" = "Défaut";
+"Default" = "DÃ©faut";
 "OLED" = "OLED";
 "iOS 13" = "iOS 13";
 
-"Change Icon" = "Changer l'Icône";
+"Change Icon" = "Changer l'IcÃ´ne";
 
-"Enable Featured Packages" = "Activer les Paquets Mis en Vedette";
+"Enable Featured Packages" = "Activer la Mise en Vedette de Paquets";
 "Repo Featured" = "Sources Mises en Vedette";
-"Random" = "Aléatoire";
+"Random" = "AlÃ©atoire";
 "Feature Type" = "Type de Mise en Vedette";
-"Select Repos to be Featured" = "Selectionner les Sources à Mettre en Vedette";
+"Select Repos to be Featured" = "Selectionner les Sources Ã  Mettre en Vedette";
 
-"Enable News" = "Activer la section "nouveautés"";
+"Enable News" = "Activer la section "nouveautÃ©s"";
 
-"Search while Typing" = "Rechercher tout en écrivant";
+"Search while Typing" = "Rechercher tout en Ã©crivant";
 
-"Swipe Actions Display As" = "Swipe Actions Display As";
+"Swipe Actions Display As" = "Afficher les Informations en Balayant";
 "Text" = "Texte";
-"Icon" = "Icône";
-"Open Documents Directory" = "Ouvrir le dossier Dcuments";
+"Icon" = "IcÃ´ne";
+"Open Documents Directory" = "Ouvrir le dossier Documents";
 "Clear Image Cache" = "Nettoyer le Cache de l'Image";
 "Clear Keychain" = "Nettoyer la Keychain";
 
 "Loading..." = "Chargement...";
 
-"Resetting image cache completed" = "Cache de l'image nettoyé";
-"Clearing keychain completed" = "Keychain nettoyée";
+"Resetting image cache completed" = "Cache de l'image nettoyÃ©";
+"Clearing keychain completed" = "Keychain nettoyÃ©";
 
 // Sources
 
 "Sources" = "Sources";
-"Local Repository" = "Sources Installées";
-"Locally installed packages" = "Paquets installés";
+"Local Repository" = "Sources InstallÃ©es";
+"Locally installed packages" = "Paquets installÃ©s";
 "Unknown" = "Inconnu";
-"No repository urls detected." = "Pas de source détectée.";
-"You have already added these repositories." = "Vous avez déjà ajouté cette source.";
-"Error verifying repository" = "Erreur lors de la vérification de la source";
-"Error verifying repositories" = "Erreur lors de la vérification des sources";
+"No repository urls detected." = "Pas de source dÃ©tectÃ©e.";
+"You have already added these repositories." = "Vous avez dÃ©jÃ  ajoutÃ© cette source.";
+"Error verifying repository" = "Erreur lors de la vÃ©rification de la source";
+"Error verifying repositories" = "Erreur lors de la vÃ©rification des sources";
 "Unknown error." = "Erreur inconnue.";
 "Invalid URL" = "URL invalide";
 "Enter URL" = "Entrer l'URL";
 "Add Repo(s)" = "Ajouter la(les) source(s)";
 "Add" = "Ajouter";
 "Add Multiple" = "Ajouter plusieurs";
-"Would you like to add the URL from your clipboard?" = "Souhaitez-vous ajouter cet URL à votre presse-papiers?";
+"Would you like to add the URL from your clipboard?" = "Souhaitez-vous ajouter cet URL Ã  votre presse-papiers?";
 "Please Wait..." = "Patientez...";
-"Verifying Source(s)" = "Vérification de la(des) Source(s)";
-"Unable to verify Repo" = "Impossible de vérifier la(les) Source(s)";
-"Refresh" = "Rafraîchir"
-"Log Out" = "Déconnexion";
-"Purchased Packages" = "Paquets Achetés";
-"Purchased" = "Purchased";
+"Verifying Source(s)" = "VÃ©rification de la(des) Source(s)";
+"Unable to verify Repo" = "Impossible de vÃ©rifier la(les) Source(s)";
+"Refresh" = "RafraÃ®chir"
+"Log Out" = "DÃ©connexion";
+"Purchased Packages" = "Paquets AchetÃ©s";
+"Purchased" = "AchetÃ©";
 
 "All Packages" = "Tous les Paquets";
 "Delete" = "Supprimer";
@@ -123,31 +123,31 @@
 // Packages
 
 "Packages" = "Paquets";
-"Show Updates" = "Afficher les Mises à Jour";
-"Ignore Updates" = "Ignorer les Mises à Jour";
+"Show Updates" = "Afficher les Mises Ã  Jour";
+"Ignore Updates" = "Ignorer les Mises Ã  Jour";
 "Select Version" = "Selectionner la Version";
-"Select a version to upgrade to" = "Selectionner une version à mettre à jour vers";
+"Select a version to upgrade to" = "Selectionner une version Ã  mettre Ã  jour vers";
 "Package" = "Paquet";
 "Information" = "Informations";
-"Upgrade All" = "Tout Mettre à Jour";
-"Loaded" = "Chargé";
+"Upgrade All" = "Tout Mettre Ã  Jour";
+"Loaded" = "ChargÃ©";
 "ABC" = "ABC";
 "Date" = "Date";
 "Size" = "Taille";
 "Queue" = "File d'attente";
 "Clear" = "Vider";
-"Are you sure you want to clear Queue?" = "Etes vous sur de vouloir vider la Queue?";
-"Available Upgrades" = "Mises à niveau disponibles";
-"Ignored Upgrades" = "Mises à niveau ignorées";
-"Recent" = "Récent";
-"Installed Files" = "Fichiers Installés";
+"Are you sure you want to clear Queue?" = "Etes vous sur de vouloir vider la File d'Attente?";
+"Available Upgrades" = "Mises Ã  niveau disponibles";
+"Ignored Upgrades" = "Mises Ã  niveau ignorÃ©es";
+"Recent" = "RÃ©cent";
+"Installed Files" = "Fichiers InstallÃ©s";
 "Modify" = "Modifier";
 "Authenticate to initiate purchase." = "S'identifier pour acheter.";
-"Please relogin your account that is used to purchase this package (Possibly %@)" = "Veuillez vous reconnecter au compte utilisé lors de l'achat de ce paquet(Possiblement %@)";
-"More by this Developer" = "Plus de paquets de ce Développeur";
-"Installed Version" = "Version Installée";
+"Please relogin your account that is used to purchase this package (Possibly %@)" = "Veuillez vous reconnecter au compte utilisÃ© lors de l'achat de ce paquet (Possiblement %@)";
+"More by this Developer" = "Plus de paquets de ce DÃ©veloppeur";
+"Installed Version" = "Version InstallÃ©e";
 
-"Add to Wish List" = "Ajouter à la liste de souhait";
+"Add to Wish List" = "Ajouter Ã  la Liste de Souhait";
 "Remove from Wish List" = "Supprimer de la liste de souhait";
 
 // Search
@@ -155,61 +155,61 @@
 "Search" = "Recherche";
 "Clear Search" = "Vider la Recherche";
 "This search query is too short for the full search, please use a longer query." = "Cette recherche est trop courte, veuillez en utiliser une plus longue.";
-"No Results Found" = "Aucun Résultat Trouvé";
+"No Results Found" = "Aucun RÃ©sultat TrouvÃ©";
 
 // Downloads
 
-"Downloads" = "Téléchargements";
+"Downloads" = "TÃ©lÃ©chargements";
 "Error while opening sources.list" = "Erreur lors de l'ouverture de sources.list";
 "The repo %@ is incompatible with your jailbreak." = "La source %@ est incompatible avec ce jailbreak.";
-"It may cause issues if you add it to Zebra resulting in possible restore." = "Cet ajout peut endommager Zebra et le forcer à se réinitialiser.";
+"It may cause issues if you add it to Zebra resulting in possible restore." = "Cet ajout peut endommager Zebra et le forcer Ã  se rÃ©initialiser.";
 "Please remove this repo from your sources.list file." = "Veuillez supprimer cette source dans le fichier sources.list.";
 "Incorrect documents permissions." = "Permissions incorrectes.";
 "Could not determine device information." = "Impossible de trouver les informations de l'appareil.";
-"Could not find a download URL for" = "Impossible de trouver l'URL pour télécharger";
-"%@ hasn't been modified" = "%@ n'a pas été modifié";
-"Could not parse %@ from %@" = "Impossible d'analyser %@ à partir de %@";
+"Could not find a download URL for" = "Impossible de trouver une URL pour tÃ©lÃ©charger";
+"%@ hasn't been modified" = "%@ n'a pas Ã©tÃ© modifiÃ©";
+"Could not parse %@ from %@" = "Impossible d'analyser %@ Ã  partir de %@";
 
 // Console
 
 "Console" = "Console";
 "Performing actions" = "En cours";
-"Updating icon cache asynchronously..." = "Mise à jour asynchrone du cache des icônes asynchronously...";
-"This may take awhile and Zebra may crash. It is okay if it does." = "Cela peut prendre un moment et peut conduire Zebra à se fermer. Tout va bien si tel est le cas.";
+"Updating icon cache asynchronously..." = "Mise Ã  jour asynchrone du cache des icÃ´nes...";
+"This may take awhile and Zebra may crash. It is okay if it does." = "Cela peut prendre un moment et peut conduire Zebra Ã  se fermer. Tout va bien si tel est le cas.";
 "Close Zebra" = "Fermer Zebra";
-"Restart SpringBoard" = "Redémarrer le SpringBoard";
-"Downloading" = "Téléchargement en cours";
-"Downloading Packages..." = "Téléchargement en cours des  Paquets...";
+"Restart SpringBoard" = "RedÃ©marrer le SpringBoard";
+"Downloading" = "TÃ©lÃ©chargement en cours";
+"Downloading Packages..." = "TÃ©lÃ©chargement en cours des Paquets...";
 "Installing" = "Installation";
 "Installing Packages..." = "Installation des Paquets...";
 "Removing" = "Suppression";
 "Removing Packages..." = "Suppression des Paquets...";
-"Reinstalling" = "Réinstallation";
-"Reinstalling Packages..." = "Réinstallation des Paquets...";
-"Upgrading" = "Mise à niveau";
-"Upgrading Packages..." = "Mise à niveau des Paquets...";
-"Complete" = "Accompli";
-"Finished!" = "Terminé!";
-"Return to Queue" = "Retourner à la Queue";
+"Reinstalling" = "RÃ©installation";
+"Reinstalling Packages..." = "RÃ©installation des Paquets...";
+"Upgrading" = "Mise Ã  niveau";
+"Upgrading Packages..." = "Mise Ã  niveau des Paquets...";
+"Complete" = "Fini";
+"Finished!" = "TerminÃ©!";
+"Return to Queue" = "Retourner Ã  la Queue";
 "Importing local packages." = "Importation des paquets locaux.";
-"Finished importing local packages." = "Importation des paquets locaux terminée.";
-"One or more packages failed to download." = "Un ou plusieurs paquets n'ont pas pu être téléchargés.";
-"Click \"Return to Queue\" to return to the Queue and retry the download." = "Clic \"Retour à la file d'attente\" pour retourner à la file d'attente et réessayer le téléchargement.";
+"Finished importing local packages." = "Importation des paquets locaux terminÃ©e.";
+"One or more packages failed to download." = "Un ou plusieurs paquets n'ont pas pu Ãªtre tÃ©lÃ©chargÃ©s.";
+"Click \"Return to Queue\" to return to the Queue and retry the download." = "Clic \"Retour Ã  la File d'Attente\" pour retourner Ã  la File d'Attente et rÃ©essayer le tÃ©lÃ©chargement.";
 
 // Queue
 
-"Queue" = "File d'attente";
-"Queue cleared" = "File d'attente nettoyée";
+"Queue" = "File d'Attente";
+"Queue cleared" = "File d'Attente nettoyÃ©e";
 "Install" = "Installer";
-"Reinstall" = "Réinstaller";
+"Reinstall" = "RÃ©installer";
 "Remove" = "Supprimer";
-"Upgrade" = "Mettre à niveau";
-"Downgrade" = "Retourner à la version";
+"Upgrade" = "Mettre Ã  niveau";
+"Downgrade" = "Retourner Ã  la version";
 "Abort" = "Annuler";
 "Continue" = "Continuer";
-"Download Size" = "Taille du téléchargement";
-"Could not resolve dependency for %@" = "Impossible de résoudre la dépendence de %@";
+"Download Size" = "Taille du tÃ©lÃ©chargement";
+"Could not resolve dependency for %@" = "Impossible de rÃ©soudre la dÃ©pendence de %@";
 "%@ conflicts with %@" = "%@ entre en conflit avec %@";
-"%@ depends on %@" = "%@ dépend de %@";
+"%@ depends on %@" = "%@ dÃ©pend de %@";
 "Removed by" = "Supprimer par";
-"Required by" = "Souhaité par";
+"Required by" = "SouhaitÃ© par";
