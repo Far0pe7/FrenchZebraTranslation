@@ -10,11 +10,6 @@
 "Close" = "Fermer";
 "Done" = "Fini";
 
-// Tab controller
-"Packages in Queue" = "Paquets en File d'Attente";
-"Package in Queue" = "Paquet en File d'Attente";
-"Tap to manage Queue" = "Appuyer pour modifier la File d'Attente";
-
 // Home
 
 "Home" = "Accueil";
@@ -32,11 +27,18 @@
 "Stores" = "Magasins";
 "Purchases" = "Achats";
 "Wish List" = "Liste de souhait";
-"Unlist" = "Enlever de la liste";
+"Unwish" = "Enlever de la liste";
 "Community" = "Communauté";
 "Join our Discord" = "Joindre notre Discord";
 "Follow me on Twitter" = "Me suivre sur Twitter";
-"Credits" = "Crédits";
+
+//Credits
+
+"Credits" = "Credits";
+"Creators" = "Créateurs";
+"Contributors" = "Associés";
+"Translators" = "Traducteurs";
+"Libraries" = "Libraries";
 
 // Settings
 
@@ -150,6 +152,45 @@
 "Add to Wish List" = "Ajouter à la Liste de Souhait";
 "Remove from Wish List" = "Supprimer de la liste de souhait";
 
+// Package Section Names
+
+"Administration" = "Administration";
+"App Addons" = "App Addons";
+"Archiving" = "Archivage";
+"Carrier Blanks" = "Carrier Blanks";
+"Communication" = "Communication";
+"Data Storage" = "Espace de Stockage";
+"Development" = "Developpement";
+"Dictionaries" = "Dictionnaires";
+"Education" = "Education";
+"Entertainment" = "Divertissement";
+"Games" = "Jeux";
+"Health and Fitness" = "Santé";
+"Imaging" = "Imagerie";
+"Java" = "Java";
+"Keyboards" = "CLaviers";
+"Localization" = "Localisation";
+"Messaging" = "Messagerie";
+"Multimedia" = "Multimédia";
+"Navigation" = "Navigation";
+"Networking" = "Réseaux";
+"Packaging" = "Mise en paquet";
+"Productivity" = "Productivité";
+"Repositories" = "Sources";
+"Ringtones" = "Sonneries";
+"Scripting" = "Script";
+"Security" = "Securité";
+"Social" = "Social";
+"System" = "Système";
+"Terminal Support" = "Terminal Support";
+"Text Editors" = "Editeurs de Texte";
+"Themes" = "Thèmes";
+"Toys" = "Jouets";
+"Tweaks" = "Tweaks";
+"Utilities" = "Utilitaires";
+"Wallpaper" = "Fonds d'écran";
+"Widgets" = "Widgets";
+
 // Search
 
 "Search" = "Recherche";
@@ -196,6 +237,11 @@
 "One or more packages failed to download." = "Un ou plusieurs paquets n'ont pas pu être téléchargés.";
 "Click \"Return to Queue\" to return to the Queue and retry the download." = "Clic \"Retour à la File d'Attente\" pour retourner à la File d'Attente et réessayer le téléchargement.";
 
+// Queue Bar
+"Packages in Queue" = "Paquets en Liste d'Attente";
+"Package in Queue" = "Paquet en Liste d'Attente";
+"Tap to manage Queue" = "Appuyez pour modifier la Liste d'Attente";
+
 // Queue
 
 "Queue" = "File d'Attente";
@@ -211,5 +257,5 @@
 "Could not resolve dependency for %@" = "Impossible de résoudre la dépendence de %@";
 "%@ conflicts with %@" = "%@ entre en conflit avec %@";
 "%@ depends on %@" = "%@ dépend de %@";
-"Removed by" = "Supprimer par";
+"Removed by" = "Supprimé par";
 "Required by" = "Souhaité par";
